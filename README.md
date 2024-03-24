@@ -49,7 +49,7 @@ This project was inspired by the need for reliable data transfer over unreliable
 
 ## Contact
 
-For any inquiries or support, please contact [Your Name](mailto:sukhomay@kgpian.iitkgp.ac.in).
+For any inquiries or support, please contact [Sukhomay Patra](mailto:sukhomay@kgpian.iitkgp.ac.in).
 
 ---
 **Note**: Detailed instructions for implementation and testing are provided in the project documentation.
