@@ -1,7 +1,5 @@
 # MTP (My Transport Protocol) - End-to-End Reliable Data Transfer
 
-![MTP Logo](mtp_logo.png)
-
 ## Introduction
 
 MTP (My Transport Protocol) is a custom protocol designed to provide end-to-end reliable data transfer over unreliable communication channels. This project aims to implement MTP sockets, which ensure that messages sent using MTP are always delivered to the receiver in order, similar to UDP sockets but with additional reliability mechanisms.
@@ -42,9 +40,6 @@ Contributions are welcome! If you'd like to contribute to the development of MTP
 4. Push to the branch: `git push origin feature/my-feature`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -52,7 +47,7 @@ This project was inspired by the need for reliable data transfer over unreliable
 
 ## Contact
 
-For any inquiries or support, please contact [Your Name](mailto:your@email.com).
+For any inquiries or support, please contact [Your Name](mailto:sukhomay@kgpian.iitkgp.ac.in).
 
 ---
 **Note**: Detailed instructions for implementation and testing are provided in the project documentation.
