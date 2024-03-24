@@ -4,6 +4,8 @@
 
 MTP (My Transport Protocol) is a custom protocol designed to provide end-to-end reliable data transfer over unreliable communication channels. This project aims to implement MTP sockets, which ensure that messages sent using MTP are always delivered to the receiver in order, similar to UDP sockets but with additional reliability mechanisms.
 
+This project is built by Sukhomay Patra(myself) and Abir Roy as a part of the course Computer Networks Laboratory. 
+
 ## Features
 
 - **Reliable Data Transfer**: Messages are reliably delivered to the receiver in order, even over unreliable communication channels.
